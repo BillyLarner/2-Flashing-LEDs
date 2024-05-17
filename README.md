@@ -1,6 +1,6 @@
 This program was made using the tutorial supplied in the FreeNove starter kit.
 
-I am using this kit to learn the basics of programming C/C++ so I can study to become and electrical enginner.
+I am using this kit to learn the basics of programming C/C++ so I can study to become an electrical enginner.
 
 
 
