@@ -4,7 +4,7 @@ I am using this kit to learn the basics of programming C/C++ so I can study to b
 
 
 
-program requires the following hardware:
+This program requires the following hardware:
 
 1x FreeNove control board (Arduino Uno)
 
